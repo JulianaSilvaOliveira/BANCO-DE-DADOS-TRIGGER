@@ -102,6 +102,9 @@ VALUES
 (49,'1981-06-01','Leonardo Carvalho','51 8382 0288','eduardoalmeida@gmail.com','2020-04-14','Passarela de Barbosa, 88','Vila Da Luz','Distrito Federal','Ceará','DF','Capelão',2575.32),
 (50,'2005-10-08','Theo Nunes','+55 61 1973 3711','luizada-luz@uol.com.br','1993-12-21','Jardim de Farias, 2','Guarani','Alagoas','Ceará','AL','Zelador',5275.32);
 
+
+
+
 DELETE FROM funcionarios WHERE id = 1;
 
 select * from funcionariosBkp;
